@@ -19,7 +19,7 @@ This project demonstrates how to automate the process of logging into Facebook u
 
 2. **ChromeDriver Setup**
 
-    Download the ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and ensure it's in your system's PATH or specify its location when initializing the WebDriver.
+    Download the ChromeDriver from [here][(https://sites.google.com/a/chromium.org/chromedriver/downloads)](https://googlechromelabs.github.io/chrome-for-testing/) and ensure it's in your system's PATH or specify its location when initializing the WebDriver.
 
 3. **Credentials Module**
 
