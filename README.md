@@ -42,7 +42,7 @@ This project demonstrates how to automate the process of logging into Facebook u
 2. **Run the Script**
 
     ```bash
-    python facebook_login.py
+    python app.py
     ```
 
 ## Script Explanation
